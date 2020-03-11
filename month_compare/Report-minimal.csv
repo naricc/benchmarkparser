@@ -1,0 +1,8 @@
+Benchmark,coreclr,mono-jit-dec,mono-jit-feb,mono-jit-jan
+System.Threading.Tests.Perf_Monitor.TryEnterExit,1.00,7.97,7.95,8.04,
+System.Diagnostics.Perf_Process.GetCurrentProcess,1.00,10.39,10.43,10.58,
+System.Tests.Perf_DateTime.GetUtcNow,1.00,9.48,9.44,9.50,
+
+
+macOS Mojave 10.14.6 (18G103) [Darwin 18.7.0]
+Intel Core i7-7920HQ CPU 3.10GHz (Kaby Lake)
